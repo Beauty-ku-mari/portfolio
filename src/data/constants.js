@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, certified in ServiceNow as a Certified System Administrator (CSA) and Certified Application Developer (CAD). Eager to learn new things and dedicated to delivering high-quality results, I approach every task with a positive attitude and a growth mindset. Driven by a passion for learning, I am committed to making meaningful contributions and achieving excellence.",
   github: "https://github.com/Beauty-ku-mari",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://docs.google.com/document/d/1eD3BzN1z2MPEC-42o5HczyfgpNnkT7T35q7CzgyE4hk/edit#heading=h.ef8qqvobbdw",
   linkedin: "https://www.linkedin.com/in/beauty-kumari-704b65269/",
   insta: "",
   leetcode:"https://leetcode.com/u/Beautykum/",
